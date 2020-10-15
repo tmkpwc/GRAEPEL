@@ -115,9 +115,6 @@ Herzlich willkommen auf dem Nutanix PoC
 
 Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
-Lab spezifischen Text einfügen (&ggf. übersetzen):  https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit
-Lab Detail Übersicht (was wird mit welchem Skript aufgesetzt): https://docs.google.com/spreadsheets/d/1vDOb9PbnDujz28m6kOCxqmPNpssOOSUngZgoNwTVo5A/edit#gid=0
-
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**
 
 - Prism
