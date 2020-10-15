@@ -127,15 +127,7 @@ Lab Detail Übersicht (was wird mit welchem Skript aufgesetzt): https://docs.goo
 - Prism Pro
 - Files
 - Files and File Analytics
-- 
-- Flow
-- HYCU
-
-**Thematisch werden folgende Themen abgedeckt:**
-
-- Thema 1
-- Thema 2
-- Thema 3
-
+- End User Computing with Citrix Apps & Desktops
+- End User Computing with Frame
 
 **Haben wir Ihr Interesse geweckt? Dann lassen Sie uns beginnen!**
