@@ -28,15 +28,14 @@
    :caption: Files Labs
    :hidden:
 
+   3-files/files_deploy/files_deploy
    3-files/files_smb_share/files_smb_share
    3-files/files_nfs_export/files_nfs_export
    3-files/files_file_blocking/files_file_blocking
    3-files/files_multiprotocol/files_multiprotocol
+   3-files/file_analytics_deploy/file_analytics_deploy
    3-files/file_analytics_scan/file_analytics_scan
    3-files/file_analytics_anomaly/file_analytics_anomaly
-   3-files/peer/peer
-   3-files/files_deploy/files_deploy
-   3-files/file_analytics_deploy/file_analytics_deploy
    3-files/files_expand_cluster/files_expand_cluster
 
 .. toctree::
@@ -97,7 +96,7 @@
    8-api/api_vm_guest_customization/api_vm_guest_customization
    8-api/api_delete_vm/api_delete_vm
    8-api/api_vm_list/api_vm_list
-   
+
 .. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
@@ -114,7 +113,7 @@ Herzlich willkommen auf dem Nutanix PoC
 
 .. figure:: images/Intro.png
 
-Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten. 
+Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
 Lab spezifischen Text einfügen (&ggf. übersetzen):  https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit
 Lab Detail Übersicht (was wird mit welchem Skript aufgesetzt): https://docs.google.com/spreadsheets/d/1vDOb9PbnDujz28m6kOCxqmPNpssOOSUngZgoNwTVo5A/edit#gid=0
