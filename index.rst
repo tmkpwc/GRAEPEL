@@ -110,7 +110,7 @@
 -----------------------------------
 Herzlich willkommen zum Nutanix PoC
 -----------------------------------
-** Bereitgestellt für Graepel Löningen GmbH & Co. KG **
+**Bereitgestellt für Graepel Löningen GmbH & Co. KG**
 
 .. figure:: images/Intro.png
 
