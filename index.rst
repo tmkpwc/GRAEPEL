@@ -107,9 +107,10 @@
 
 .. _getting_started:
 
----------------------------------------
-Herzlich willkommen auf dem Nutanix PoC
----------------------------------------
+-----------------------------------
+Herzlich willkommen zum Nutanix PoC
+-----------------------------------
+** Bereitgestellt für Graepel Löningen GmbH & Co. KG **
 
 .. figure:: images/Intro.png
 
