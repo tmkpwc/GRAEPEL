@@ -19,9 +19,9 @@ import sphinx_copybutton
 
 # -- Project information -----------------------------------------------------
 
-project = 'Hosted PoC'
+project = 'Nutanix PoC'
 copyright = '2020, Nutanix Germany GmbH | '
-author = 'Martin Stenke'
+author = 'Thomas Pawluc'
 
 
 # -- General configuration ---------------------------------------------------
@@ -78,7 +78,7 @@ html_favicon = "favicon.ico"
 #custom css file to override standard readthedocs template
 def setup(app):
     app.add_stylesheet('css/custom.css')
-    
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
