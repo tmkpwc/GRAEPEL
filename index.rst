@@ -84,15 +84,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Splunk auf AHV Labs
-   :hidden:
-
-   7-splunk/objects_splunk/objects_splunk
-   7-splunk/setup_splunk/setup_splunk
-   7-splunk/generate_logs/generate_logs
-
-.. toctree::
-   :maxdepth: 2
    :caption: API Labs
    :hidden:
 
@@ -130,9 +121,15 @@ Lab Detail Übersicht (was wird mit welchem Skript aufgesetzt): https://docs.goo
 
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**
 
-- NTNX Produkt A
-- NTNX Produkt B
-- NTNX Produkt C
+- Prism
+- AOS
+- AHV
+- Prism Pro
+- Files
+- Files and File Analytics
+- 
+- Flow
+- HYCU
 
 **Thematisch werden folgende Themen abgedeckt:**
 
