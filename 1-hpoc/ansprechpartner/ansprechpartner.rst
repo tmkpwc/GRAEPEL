@@ -16,14 +16,14 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
 :header-rows: 1
 
    * - **Thomas Pawluc**
-   * - **Daniel Kemmerling**
+     - **Daniel Kemmerling**
    * - .. figure:: images/TPawluc.png
-   * - .. figure:: images/DKemmerling.png
+     - .. figure:: images/DKemmerling.png
    * - **Systems Engineer**
-   * - **Account Manager**
+     - **Account Manager**
    * - Nutanix Germany GmbH
-   * - Nutanix Germany GmbH
+     - Nutanix Germany GmbH
    * - +49 163 / 01 02 400
-   * - +49 170 / 79 10 741
+     - +49 170 / 79 10 741
    * - thomas.pawluc@nutanix.com
-   * - daniel.kemmerling@nutanix.com
+     - daniel.kemmerling@nutanix.com
