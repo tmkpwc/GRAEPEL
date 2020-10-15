@@ -114,7 +114,8 @@ Herzlich willkommen zum Nutanix PoC
 
 .. figure:: images/Intro.png
 
-Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
+Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs,
+sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**
 
